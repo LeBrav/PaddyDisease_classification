@@ -1,0 +1,6 @@
+/input/
+/unet_weights/
+workspace/best.pt
+workspace/submission.csv
+workspace/wandb/
+workspace/__pycache__/
